@@ -1,15 +1,108 @@
-# 💫 About Me:
-🔭 I’m currently working on **Lunachan**, an experimental anonymous imageboard built with Next.js & MongoDB.<br>🌱 I’m currently learning **TypeScript** and exploring **backend security & performance**.<br>🤝 I’m looking to collaborate on **open-source web projects** and cool interactive web experiences.<br>💬 Ask me about **Next.js, Node.js, or how to build modern forums from scratch.**<br>⚡ Fun fact: I love mixing tech, creativity, and a bit of chaos to make the web more fun.<br>
+# Hugo (Yhugzee)
 
+Self-taught JavaScript / TypeScript developer building real projects, desktop applications and personal infrastructure while working toward becoming a professional developer.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yhugzee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yhugzee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yhugzee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👨‍💻 About me
 
----
-[![](https://visitcount.itsvg.in/api?id=Yhugzee&icon=0&color=0)](https://visitcount.itsvg.in)
+I'm a self-taught developer focused on learning through real projects instead of only tutorials.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Main interests:
+
+• Desktop applications  
+• Full-stack development  
+• Infrastructure & DevOps basics  
+• Software architecture  
+
+Currently building my technical skills through daily development and experimentation.
+
+## 🚀 Main Projects
+
+### Compagnon
+Interactive desktop companion app built with Electron.
+
+Focus areas:
+
+• Electron architecture  
+• TypeScript migration  
+• UI interactions  
+• Performance optimization  
+• Modular design  
+
+### yhgz.eu ecosystem
+
+Personal infrastructure where I deploy and test services.
+
+Current and planned services:
+
+• Self-hosted URL shortener (Shlink)  
+• Monitoring systems  
+• Future Node.js APIs  
+• Personal automation tools  
+
+## 🖥 Infrastructure & DevOps Experience
+
+I maintain my own VPS where I experiment with real deployment conditions:
+
+• Linux server administration  
+• Docker containerization  
+• Cloudflare DNS & protection  
+• SSH hardening  
+• Firewall configuration  
+• Service monitoring (Uptime Kuma + external monitoring)  
+• Environment variables management  
+
+Goal: understand how production systems work.
+
+## ⚙ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+
+### Desktop
+![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+
+## 📚 Currently learning
+
+• Advanced TypeScript  
+• Backend architecture  
+• Software design practices  
+• Infrastructure reliability  
+• Deployment workflows  
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Yhugzee&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yhugzee&layout=compact&theme=dark&hide_border=true)
+
+## 🎯 Goals
+
+• Finish Compagnon first public version  
+• Deploy more public services  
+• Improve documentation quality  
+• Build a strong technical portfolio  
+• Get my first developer position  
