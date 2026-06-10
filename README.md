@@ -1,108 +1,139 @@
-# Hugo (Yhugzee)
+# Hugo Rodriguez / Yhugzee
 
-Self-taught JavaScript / TypeScript developer building real projects, desktop applications and personal infrastructure while working toward becoming a professional developer.
+JavaScript / TypeScript developer building web apps, desktop experiments and self-hosted services.
+
+I learn by building real projects, deploying them, breaking things, fixing them, and documenting what I understand along the way.
 
 ## 👨‍💻 About me
 
-I'm a self-taught developer focused on learning through real projects instead of only tutorials.
+I'm a junior web developer focused on JavaScript, TypeScript, React, Next.js and Node.js.
+
+I enjoy working on projects that mix front-end, back-end, desktop apps and infrastructure.
+My current goal is to build a solid technical portfolio and get my first developer position.
 
 Main interests:
 
-• Desktop applications  
-• Full-stack development  
-• Infrastructure & DevOps basics  
-• Software architecture  
+* Web development
+* Desktop applications
+* Full-stack development
+* Self-hosting and DevOps basics
+* UI experiments and creative interfaces
 
-Currently building my technical skills through daily development and experimentation.
+## 🚀 Main projects
 
-## 🚀 Main Projects
+### YHGZ.eu
 
-### Compagnon
-Interactive desktop companion app built with Electron.
+Personal portfolio and web ecosystem built with Next.js, TypeScript and Payload CMS.
 
 Focus areas:
 
-• Electron architecture  
-• TypeScript migration  
-• UI interactions  
-• Performance optimization  
-• Modular design  
+* Next.js App Router
+* Payload CMS
+* TypeScript
+* Preview / production environments
+* Deployment on VPS
+* Docker, Caddy, Cloudflare and GitHub Actions
 
-### yhgz.eu ecosystem
+### YHGZ Lab
 
-Personal infrastructure where I deploy and test services.
+Personal lab for web experiments, interface ideas and creative front-end projects.
 
-Current and planned services:
+Focus areas:
 
-• Self-hosted URL shortener (Shlink)  
-• Monitoring systems  
-• Future Node.js APIs  
-• Personal automation tools  
+* Next.js
+* UI experiments
+* Animations
+* 3D integration experiments
+* Portfolio-oriented projects
 
-## 🖥 Infrastructure & DevOps Experience
+### Amiari
 
-I maintain my own VPS where I experiment with real deployment conditions:
+Desktop companion app built with Electron, TypeScript and Node.js.
 
-• Linux server administration  
-• Docker containerization  
-• Cloudflare DNS & protection  
-• SSH hardening  
-• Firewall configuration  
-• Service monitoring (Uptime Kuma + external monitoring)  
-• Environment variables management  
+Focus areas:
 
-Goal: understand how production systems work.
+* Electron architecture
+* Desktop UI interactions
+* Modular design
+* TypeScript migration
+* Performance optimization
 
-## ⚙ Tech Stack
+## 🖥 Infrastructure & DevOps
+
+I maintain my own VPS to learn deployment and infrastructure in real conditions.
+
+Things I work with:
+
+* Linux server administration
+* Docker containerization
+* Caddy reverse proxy
+* Cloudflare DNS and protection
+* SSH hardening
+* Firewall configuration
+* GitHub Actions deployment workflows
+* Monitoring with Uptime Kuma
+* Self-hosted tools and services
+
+## ⚙ Tech stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
 
-### Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+### Front-end
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge\&logo=vite)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
+
+### Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-black?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge\&logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
 
 ### Desktop
-![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron)
-![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+
+![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge\&logo=electron)
 
 ### Infrastructure
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare)
+
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Caddy](https://img.shields.io/badge/Caddy-black?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge\&logo=cloudflare)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge\&logo=githubactions)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
 
 ## 📚 Currently learning
 
-• Advanced TypeScript  
-• Backend architecture  
-• Software design practices  
-• Infrastructure reliability  
-• Deployment workflows  
+* Advanced TypeScript
+* Backend architecture
+* Better deployment workflows
+* Software design practices
+* Creative front-end and 3D web experiments
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Yhugzee&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Yhugzee\&theme=dark\&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yhugzee&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yhugzee\&layout=compact\&theme=dark\&hide_border=true)
 
-## 🎯 Goals
+## 🎯 Current goals
 
-• Finish Compagnon first public version  
-• Deploy more public services  
-• Improve documentation quality  
-• Build a strong technical portfolio  
-• Get my first developer position  
+* Improve YHGZ.eu as a technical portfolio
+* Build YHGZ Lab as a creative development playground
+* Continue developing Amiari
+* Document my projects more clearly
+* Get my first developer position
