@@ -1,139 +1,73 @@
-# Hugo Rodriguez / Yhugzee
+# Hey, I'm Hugo 👋
 
-JavaScript / TypeScript developer building web apps, desktop experiments and self-hosted services.
+**Yhugzee · JavaScript / TypeScript developer**
 
-I learn by building real projects, deploying them, breaking things, fixing them, and documenting what I understand along the way.
+I build useful web apps, playful interfaces, and small desktop tools. I learn by shipping real projects, improving them in public, and taking care of the less visible parts too: accessibility, security, testing, and deployment.
 
-## 👨‍💻 About me
+🌐 **[Portfolio — yhgz.eu](https://yhgz.eu)** · 🚀 **[DoneStage — donestage.com](https://donestage.com)**
 
-I'm a junior web developer focused on JavaScript, TypeScript, React, Next.js and Node.js.
+## 🚀 Featured projects
 
-I enjoy working on projects that mix front-end, back-end, desktop apps and infrastructure.
-My current goal is to build a solid technical portfolio and get my first developer position.
+### [DoneStage](https://donestage.com) — project handoffs, without the chaos
+**React · TypeScript · Vite · Supabase · PostgreSQL** · **Beta**
 
-Main interests:
+A web app for freelance developers to hand over projects cleanly: delivery checklists, useful links, notes, and a dedicated page for clients. It also explores secure, encrypted sharing for sensitive handoff details.
 
-* Web development
-* Desktop applications
-* Full-stack development
-* Self-hosting and DevOps basics
-* UI experiments and creative interfaces
+Current focus: performance, account security, automated tests, and clearer public roadmap/devlog pages.
 
-## 🚀 Main projects
+### [YHGZ.eu](https://yhgz.eu) — my portfolio and web home
+**Next.js · React · TypeScript · Payload CMS · SQLite**
 
-### YHGZ.eu
+My personal website and project showcase, with a custom CMS, a devlog, and separate preview/production environments. I handle both the visual design and the infrastructure behind it.
 
-Personal portfolio and web ecosystem built with Next.js, TypeScript and Payload CMS.
+Current focus: exploring a more distinctive editorial design while keeping the site readable, responsive, and fast.
 
-Focus areas:
+### Sky Event Overlay — a little helper for Sky
+**Electron · React · TypeScript · Vite** · **Windows**
 
-* Next.js App Router
-* Payload CMS
-* TypeScript
-* Preview / production environments
-* Deployment on VPS
-* Docker, Caddy, Cloudflare and GitHub Actions
+An offline desktop overlay for *Sky: Children of the Light*: upcoming event reminders, customizable schedules, compact display modes, and visual alerts. Event times account for timezone and daylight-saving changes.
 
-### YHGZ Lab
+### Amiari — a privacy-minded desktop neko
+**Electron · TypeScript · Node.js** · **Windows**
 
-Personal lab for web experiments, interface ideas and creative front-end projects.
+A pixel-art companion that reacts to creative activity and tracks time spent in apps you choose. Everything stays local; the app is designed to avoid collecting window titles or personal content.
 
-Focus areas:
+Recent work: stricter TypeScript architecture, reliability improvements, and tests for the packaged Windows app.
 
-* Next.js
-* UI experiments
-* Animations
-* 3D integration experiments
-* Portfolio-oriented projects
+### Budget App — less noise, more clarity
+**React · TypeScript · Vite** · **Early prototype**
 
-### Amiari
+A minimal personal-budget app focused on one thing at a time: seeing what remains and recording an expense quickly. Starting with manual entry and accessible, low-friction interactions.
 
-Desktop companion app built with Electron, TypeScript and Node.js.
+### YHGZ Lab — space to experiment
+**Next.js · Payload CMS · TypeScript**
 
-Focus areas:
+A home for creative front-end experiments, prototypes, and small tools. A place to try ideas without forcing every experiment into a full product.
 
-* Electron architecture
-* Desktop UI interactions
-* Modular design
-* TypeScript migration
-* Performance optimization
+> Some project repositories are private while they're in development. The public sites above are the best way to explore the work that's available.
 
-## 🖥 Infrastructure & DevOps
+## 🛠️ Tech I work with
 
-I maintain my own VPS to learn deployment and infrastructure in real conditions.
+**Languages:** JavaScript, TypeScript, HTML, CSS, Bash  
+**Front-end:** React, Next.js, Vite, Tailwind CSS  
+**Back-end & data:** Node.js, Supabase, PostgreSQL, Payload CMS, SQLite  
+**Desktop:** Electron  
+**Infrastructure:** Linux, Docker, Caddy, Cloudflare, GitHub Actions, VPS hosting  
+**Workflow:** Git, GitHub, VS Code, testing, CI/CD
 
-Things I work with:
+## 🔧 What I'm focused on
 
-* Linux server administration
-* Docker containerization
-* Caddy reverse proxy
-* Cloudflare DNS and protection
-* SSH hardening
-* Firewall configuration
-* GitHub Actions deployment workflows
-* Monitoring with Uptime Kuma
-* Self-hosted tools and services
+- Building and improving **DoneStage**, from product UX to security and reliability.
+- Refining **YHGZ.eu** as a portfolio that feels personal and works well on every screen.
+- Making **desktop utilities** that are practical, lightweight, and respectful of privacy.
+- Growing as a **full-stack JavaScript/TypeScript developer**, one shipped project at a time.
 
-## ⚙ Tech stack
+## 📊 GitHub activity
 
-### Languages
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yhugzee&show_icons=true&theme=dark&hide_border=true)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yhugzee&layout=compact&theme=dark&hide_border=true)
 
-### Front-end
+---
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge\&logo=vite)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
-
-### Back-end
-
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![Payload CMS](https://img.shields.io/badge/Payload_CMS-black?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge\&logo=sqlite)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
-
-### Desktop
-
-![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge\&logo=electron)
-
-### Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Caddy](https://img.shields.io/badge/Caddy-black?style=for-the-badge)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge\&logo=cloudflare)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge\&logo=githubactions)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
-
-## 📚 Currently learning
-
-* Advanced TypeScript
-* Backend architecture
-* Better deployment workflows
-* Software design practices
-* Creative front-end and 3D web experiments
-
-## 📊 GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Yhugzee\&theme=dark\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yhugzee\&layout=compact\&theme=dark\&hide_border=true)
-
-## 🎯 Current goals
-
-* Improve YHGZ.eu as a technical portfolio
-* Build YHGZ Lab as a creative development playground
-* Continue developing Amiari
-* Document my projects more clearly
-* Get my first developer position
+**Always building, always learning.** ✨
