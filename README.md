@@ -39,7 +39,7 @@ Recent work: stricter TypeScript architecture, reliability improvements, and tes
 
 A minimal personal-budget app focused on one thing at a time: seeing what remains and recording an expense quickly. Starting with manual entry and accessible, low-friction interactions.
 
-### YHGZ Lab — space to experiment
+### [LAB YHGZ](https://lab.yhgz.eu)  — space to experiment
 **Next.js · Payload CMS · TypeScript**
 
 A home for creative front-end experiments, prototypes, and small tools. A place to try ideas without forcing every experiment into a full product.
